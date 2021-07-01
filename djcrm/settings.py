@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = ')h!i)c@^1c9pc@rdas!*1_b3#llxwv9h#43#(er%2ex(b#9$p!'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['getting-started-with-django-git-icp.ap-in-1.icp.infineon.com']
 
